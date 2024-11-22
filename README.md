@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I’m a driven junior software developer currently
 - 💻 **Current Focus**: 
   - Python and machine learning frameworks (Scikit-learn, TensorFlow, PyTorch)
   - Test-driven development and object-oriented programming
+  - Backend development
 
 ## 🌟 Fun Facts
 
