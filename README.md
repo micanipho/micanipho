@@ -6,10 +6,11 @@ Welcome to my GitHub profile! I’m a driven junior software developer currently
 
 - 🎓 **Education**: Software Engineering student at WeThinkCode_  
 - 💻 **Current Focus**: 
-  - Python and machine learning frameworks (Scikit-learn, TensorFlow, PyTorch)
+  - Python and Java
   - Test-driven development and object-oriented programming
   - Backend development
-
+  - Frameworks (Flask, Spring boot, React)
+  - SQL (MySQL, PostgreSQL)
 ## 🌟 Fun Facts
 
 - I enjoy participating in coding challenges and hackathons.
