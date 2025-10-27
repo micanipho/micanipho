@@ -39,7 +39,7 @@ _Passionate about scalable systems, elegant code, and developer growth_
 ## 🧠 About Me
 
 - 🎓 Software Engineering student at **WeThinkCode_**
-- 🧑‍🏫 **Bootcamp Mentor** coaching 8–12 junior developers through hands-on projects
+- 🧑‍🏫 **Technical Mentor** coaching  junior developers through hands-on projects
 - 📜 Graduate of **CS50’s Introduction to Artificial Intelligence** (Harvard)
 - 🛠️ Focused on backend development, system architecture & cloud infrastructure
 - 💬 I love solving complex technical challenges and mentoring future devs
@@ -69,7 +69,7 @@ _Passionate about scalable systems, elegant code, and developer growth_
 🏗️ **Currently Building:**  
 - A secure cloud-deployed **Financial Tracker API**  
 - An AI-enhanced **Smart Gym Trainer Web App**  
-- A blockchain-backed **South African e-commerce platform**
+- An AI powered **Route Management System**
 
 ---
 
