@@ -9,8 +9,7 @@ _Passionate about scalable systems, elegant code, and developer growth_
 - 🧾 Building a **Personal Finance Tracker API** using **Spring Boot** and **AWS**  
   A comprehensive Personal Finance Management API designed to demonstrate enterprise-grade development practices — including **secure transaction processing**, **regulatory compliance**, and **cloud-native deployment** using AWS.  
 
-- 🛒 Developing **A Good Man’s View** — a blockchain-enabled **multi-vendor e-commerce platform**  
-  Built for the South African market, this platform combines traditional e-commerce with **blockchain technology** to ensure transparency, trust, and secure transactions between vendors and buyers.  
+- 🗺️ Developing a full-stack smart city routing platform with a live data pipeline. This project uses RabbitMQ to stream simulated traffic events to a consumer, which then updates a Neo4j graph database in real-time. A FastAPI backend and Next.js frontend then query this live graph to provide dynamic, cost-based pathfinding.
 
 - 🏋️‍♂️ Prototyping an **AI-Powered Smart Gym Trainer**  
   A web-based system that uses **AI pose detection** to track form, count reps, and offer real-time feedback during workouts — accessible via any device with a webcam.
