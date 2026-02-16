@@ -1,5 +1,5 @@
 # Hey, I'm Nhlakanipho Masilela 👋
-💡 **Graduate Software Engineer at Boxfusion** | Mentor | AI Enthusiast  
+💡 **Graduate Software Engineer at Boxfusion** | AI Enthusiast  
 _Building scalable systems with C#/.NET and cloud-native architectures._
 
 ---
