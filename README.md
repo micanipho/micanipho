@@ -1,83 +1,69 @@
-# Hey, I'm Nhlakanipho 👋  
-💡 Jr Software Engineer | Mentor | AI Enthusiast  
-_Passionate about scalable systems, elegant code, and developer growth_
+# Hey, I'm Nhlakanipho Masilela 👋
+💡 **Graduate Software Engineer at Boxfusion** | Mentor | AI Enthusiast  
+_Building scalable systems with C#/.NET and cloud-native architectures._
 
 ---
 
-## 🚀 What I'm Working On
+## 🛠️ Professional Focus
+Currently part of the **Boxfusion Graduate Programme**, mastering the Microsoft ecosystem while contributing to enterprise-grade software solutions.
 
-- 🧾 Building a **Personal Finance Tracker API** using **Spring Boot** and **AWS**  
-  A comprehensive Personal Finance Management API designed to demonstrate enterprise-grade development practices — including **secure transaction processing**, **regulatory compliance**, and **cloud-native deployment** using AWS.  
+- 🏗️ **Core Stack:** C# | .NET | Azure DevOps | React & Next.js
 
-- 🗺️ Developing a full-stack smart city routing platform with a live data pipeline. This project uses RabbitMQ to stream simulated traffic events to a consumer, which then updates a Neo4j graph database in real-time. A FastAPI backend and Next.js frontend then query this live graph to provide dynamic, cost-based pathfinding.
+---
 
-- 🏋️‍♂️ Prototyping an **AI-Powered Smart Gym Trainer**  
-  A web-based system that uses **AI pose detection** to track form, count reps, and offer real-time feedback during workouts — accessible via any device with a webcam.
+## 🚀 Key Projects
+
+### 🧾 Personal Finance Tracker API (Spring Boot & AWS)
+Enterprise-grade PFM API focusing on:
+- **Secure Transaction Processing**
+- **Regulatory Compliance**
+- **Cloud-Native Deployment** on AWS (EC2, S3, RDS)
+
+### 🗺️ Smart City Routing Engine
+Full-stack pathfinding platform using:
+- **RabbitMQ** for real-time traffic event streaming.
+- **Neo4j** for dynamic graph-based cost pathfinding.
+- **FastAPI** & **Next.js** for a responsive, live data pipeline.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**  
-- Python • Java • JavaScript • HTML/CSS  
-
-**Frontend**  
-- React • Tailwind CSS • Bootstrap  
-
-**Backend**  
-- Spring Boot • Flask  
-
-**Databases**  
-- MySQL • PostgreSQL  
-
-**Cloud & Tools**  
-- AWS (EC2, S3, RDS) • Docker • Git • VS Code  
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | C#, Python, Java, JavaScript |
+| **Backend** | .NET (Current Focus), Spring Boot, FastAPI, Node.js |
+| **Frontend** | React, Next.js, Tailwind CSS, Bootstrap |
+| **Infrastructure** | Azure DevOps, AWS, Docker, Git, RabbitMQ |
+| **Databases** | MongoDB, PostgreSQL, MySQL |
 
 ---
 
-## 🧠 About Me
+## 📊 GitHub Stats
 
-- 🎓 Software Engineering student at **WeThinkCode_**
-- 🧑‍🏫 **Technical Mentor** coaching  junior developers through hands-on projects
-- 📜 Graduate of **CS50’s Introduction to Artificial Intelligence** (Harvard)
-- 🛠️ Focused on backend development, system architecture & cloud infrastructure
-- 💬 I love solving complex technical challenges and mentoring future devs
+ ![Nhlakanipho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=micanipho&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
----
 
-## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=micanipho&layout=compact&theme=dark&hide_border=true)
 
-![Nhlakanipho's GitHub stats](https://github-readme-stats.vercel.app/api?username=micanipho&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=micanipho&layout=compact&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=micanipho&theme=dark&hide_border=true)
 
+
+--- 
 ---
 
-## 🕒 Now
-
-📘 **Currently Reading:**  
-- _Designing Data-Intensive Applications_ by **Martin Kleppmann**  
-- _The Pragmatic Programmer_ by **Andrew Hunt & David Thomas**  
-
-🎧 **Listening To:**  
-- *Lex Fridman Podcast* – AI x Education, Software Philosophy  
-- *The Stack Overflow Podcast* – Dev culture & engineering topics  
-
-🏗️ **Currently Building:**  
-- A secure cloud-deployed **Financial Tracker API**  
-- An AI-enhanced **Smart Gym Trainer Web App**  
-- An AI powered **Route Management System**
+## 🕒 Currently Reading & Listening
+- 📘 *Designing Data-Intensive Applications* – Martin Kleppmann
+- 📘 *The Pragmatic Programmer* – Andrew Hunt & David Thomas
 
 ---
 
 ## 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://micanipho.github.io/My-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nqmasilela)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nqmasilela777@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nipho_nq/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://micanipho.github.io/My-portfolio/)
 
 ---
 
