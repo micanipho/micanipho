@@ -41,6 +41,9 @@ Full-stack pathfinding platform using:
 
 ## 📊 GitHub Stats
 
+
+[![committers.top badge](https://user-badge.committers.top/south_africa/micanipho.svg)](https://user-badge.committers.top/south_africa/micanipho)
+
  ![Nhlakanipho's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=micanipho&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 
