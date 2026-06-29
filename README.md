@@ -13,11 +13,10 @@ Currently part of the **Boxfusion Graduate Programme**, mastering the Microsoft 
 
 ## 🚀 Key Projects
 
-### 🧾 Personal Finance Tracker API (Spring Boot & AWS)
+### 🧾 Personal Finance Tracker API 
 Enterprise-grade PFM API focusing on:
 - **Secure Transaction Processing**
 - **Regulatory Compliance**
-- **Cloud-Native Deployment** on AWS (EC2, S3, RDS)
 
 ### 🗺️ Smart City Routing Engine
 Full-stack pathfinding platform using:
@@ -34,7 +33,7 @@ Full-stack pathfinding platform using:
 | **Languages** | C#, Python, Java, JavaScript |
 | **Backend** | .NET (Current Focus), Spring Boot, FastAPI, Node.js |
 | **Frontend** | React, Next.js, Tailwind CSS, Bootstrap |
-| **Infrastructure** | Azure DevOps, AWS, Docker, Git, RabbitMQ |
+| **Infrastructure** | Azure DevOps, Docker, Git |
 | **Databases** | MongoDB, PostgreSQL, MySQL |
 
 ---
